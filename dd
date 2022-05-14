@@ -1,5 +1,5 @@
 @echo off
 color 2
 :loop
-%random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
+echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
 GOTO loop
