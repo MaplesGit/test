@@ -1,3 +1,3 @@
 echo e
-set /p p="HEY"
+set /p p="INPUT: "
 echo %p%
